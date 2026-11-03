@@ -201,6 +201,16 @@ Game mechanics such as combat, inventory and progression are handled by Python r
 - Cloud-based player profiles.
 - Improved AI memory and narrative consistency.
 - Additional save-slot management.
+- 
+- ## 🔐 Security & Privacy
+
+- **API Key Protection:** The OpenRouter API key is stored securely using Streamlit Cloud Secrets and is never exposed in the frontend.
+- **Environment Variables:** Local API credentials are stored in `.env`, which is excluded from Git using `.gitignore`.
+- **Public Access:** The deployed application is publicly accessible. Visitors can interact with the AI features through the application.
+- **API Usage:** AI requests made through the public application consume API usage associated with the application's configured OpenRouter account.
+- **Local Account Storage:** User accounts and game progress currently use local JSON-based storage. Persistent cloud storage is not guaranteed across application restarts or redeployments.
+
+**Note:** This is a portfolio/demo project. Avoid entering sensitive personal information into the application.
 
 ## 👨‍💻 Developer
 
