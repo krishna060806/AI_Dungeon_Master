@@ -8,6 +8,15 @@ Check for visuals in screenshots folder
 
 ---
 
+## 🎮 Live Demo
+
+**Play AI Dungeon Master — The Forgotten Dungeon:**
+
+[Launch the Game](https://ai-dungeon-master.streamlit.app/)
+
+Explore the dungeon, interact with the AI Dungeon Master, fight enemies, collect items, and complete the quest.
+
+
 ## 📌 Project Overview
 
 AI Dungeon Master is an interactive RPG that combines traditional game mechanics with AI-generated storytelling.
