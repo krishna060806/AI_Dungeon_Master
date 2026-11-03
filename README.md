@@ -4,6 +4,8 @@ An AI-powered fantasy text adventure where every action shapes your journey. Exp
 
 Built using Python, Streamlit and an AI-powered Dungeon Master connected through OpenRouter.
 
+Check for visuals in screenshots folder
+
 ---
 
 ## 📌 Project Overview
