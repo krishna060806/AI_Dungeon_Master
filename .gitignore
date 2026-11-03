@@ -1,0 +1,20 @@
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local accounts and game progress
+accounts.json
+save.json
+streamlit_save.json
+streamlit_save.json.bak
+saves/
+
+# Editor/system files
+.vscode/
+.DS_Store
